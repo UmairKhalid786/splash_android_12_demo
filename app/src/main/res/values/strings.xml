@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash Screen API Demo</string>
+    <string name="hello_world">Hello Splash 12</string>
+</resources>
